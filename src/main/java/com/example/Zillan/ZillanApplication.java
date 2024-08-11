@@ -9,6 +9,7 @@ public class ZillanApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ZillanApplication.class, args);
 		System.out.println(" Welcome to gitLab");
+		System.out.println( " start working on gitlab");
 	}
 
 }
